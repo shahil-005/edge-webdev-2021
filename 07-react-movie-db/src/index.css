@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Monteserrat", sans-serif;
+}
+
+a {
+  color: #eee;
+}
+
+a:active {
+  color: #eee;
+}
